@@ -35,4 +35,9 @@ from sklearn.ensemble import RandomForestClassifier # Study
 ## Evaluate Model
 from sklearn.metrics import confusion_matrix, roc_curve
 
+## Data Preprocessing
+print(data.head())
+
+
+
 
